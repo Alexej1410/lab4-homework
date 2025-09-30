@@ -16,7 +16,7 @@
 3. Конец.<br>
 
 <h2>Код программы</h2>
-#include <stdio.h><br>
+#include <stdio.h>
 #include <locale.h><br>
 <br>
 void main()<br>
