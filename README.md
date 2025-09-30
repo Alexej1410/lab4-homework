@@ -17,24 +17,24 @@
 
 <h2>Код программы</h2>
 
-{C} {#include <stdio.h>
+#include <stdio.h><br>
 #include <locale.h>
-
-void main()
-{
-	setlocale(LC_ALL, "RUS");
-	int a, b, c;
-	puts("вариант 14\n");
-	puts("введите параметр а");
-	scanf("%d", &a);
-	puts("введите параметр b");
-	scanf("%d", &b);
-	puts("введите параметр c");
-	scanf("%d", &c);
-	if (a % 3 == 0 && b % 3 == 0 && c % 3 == 0)
-		puts("Система калибровки станка: успешная калибровка");
-	else puts("Система калибровки станка: калибровка не пройдена");
-}}
+<br>
+void main()<br>
+{<br>
+	setlocale(LC_ALL, "RUS");<br>
+	int a, b, c;<br>
+	puts("вариант 14\n");<br>
+	puts("введите параметр а");<br>
+	scanf("%d", &a);<br>
+	puts("введите параметр b");<br>
+	scanf("%d", &b);<br>
+	puts("введите параметр c");<br>
+	scanf("%d", &c);<br>
+	if (a % 3 == 0 && b % 3 == 0 && c % 3 == 0)<br>
+		puts("Система калибровки станка: успешная калибровка");<br>
+	else puts("Система калибровки станка: калибровка не пройдена");<br>
+}
 
 <h2>Схема</h2>
 <img width="789" height="747" alt="image" src="https://github.com/user-attachments/assets/7b5dc5c8-b434-472e-8c56-5215a1379d58" />
