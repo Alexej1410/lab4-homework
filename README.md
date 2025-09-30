@@ -21,7 +21,7 @@
 <br>
 void main()<br>
 {<br>
-	<pre></pre>setlocale(LC_ALL, "RUS");</pre><br>
+	setlocale(LC_ALL, "RUS");<br>
 	int a, b, c;<br>
 	puts("вариант 14\n");<br>
 	puts("введите параметр а");<br>
