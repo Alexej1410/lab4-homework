@@ -16,12 +16,12 @@
 3. Конец.<br>
 
 <h2>Код программы</h2>
-#include <stdio.h>
+#include <stdio.h><br>
 #include <locale.h><br>
 <br>
 void main()<br>
 {<br>
-	setlocale(LC_ALL, "RUS");<br>
+	>>setlocale(LC_ALL, "RUS");<br>
 	int a, b, c;<br>
 	puts("вариант 14\n");<br>
 	puts("введите параметр а");<br>
