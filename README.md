@@ -18,7 +18,7 @@
 <h2>Код программы</h2>
 
 #include <stdio.h><br>
-#include <locale.h>
+#include <locale.h><br>
 <br>
 void main()<br>
 {<br>
