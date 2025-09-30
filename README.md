@@ -16,23 +16,23 @@
 3. Конец.<br>
 
 <h2>Код программы</h2>
-#include <stdio.h>
-#include <locale.h>
+#include <stdio.h><br>
+#include <locale.h><br>
 
-void main()
-{
-	setlocale(LC_ALL, "RUS");
-	int a, b, c;
-	puts("вариант 14\n");
-	puts("введите параметр а");
-	scanf("%d", &a);
-	puts("введите параметр b");
-	scanf("%d", &b);
-	puts("введите параметр c");
-	scanf("%d", &c);
-	if (a % 3 == 0 && b % 3 == 0 && c % 3 == 0)
-		puts("Система калибровки станка: успешная калибровка");
-	else puts("Система калибровки станка: калибровка не пройдена");
+void main()<br>
+{<br>
+	setlocale(LC_ALL, "RUS");<br>
+	int a, b, c;<br>
+	puts("вариант 14\n");<br>
+	puts("введите параметр а");<br>
+	scanf("%d", &a);<br>
+	puts("введите параметр b");<br>
+	scanf("%d", &b);<br>
+	puts("введите параметр c");<br>
+	scanf("%d", &c);<br>
+	if (a % 3 == 0 && b % 3 == 0 && c % 3 == 0)<br>
+		puts("Система калибровки станка: успешная калибровка");<br>
+	else puts("Система калибровки станка: калибровка не пройдена");<br>
 }
 
 <h2>Схема</h2>
