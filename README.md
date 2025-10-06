@@ -39,6 +39,8 @@ void main()<br>
 <img width="789" height="747" alt="image" src="https://github.com/user-attachments/assets/7b5dc5c8-b434-472e-8c56-5215a1379d58" />
 
 <h2>Консоль</h2>
-<img width="627" height="266" alt="image" src="https://github.com/user-attachments/assets/a1f9a336-70f5-4b76-9f3b-9acface86955" />
+<img width="627" height="266" alt="image" src="https://github.com/user-attachments/assets/a1f9a336-70f5-4b76-9f3b-9acface86955" /><br>
+<img width="616" height="267" alt="image" src="https://github.com/user-attachments/assets/fad42145-10b5-48ec-b56d-47b20b55bf51" />
+
 
 
